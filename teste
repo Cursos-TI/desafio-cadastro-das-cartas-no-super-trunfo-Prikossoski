@@ -1,1 +1,7 @@
+#include <stdio>
+
+int main() {
+
+print("olá mundo")
+
 
